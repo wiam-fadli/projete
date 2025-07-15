@@ -1,0 +1,34 @@
+.PRINCIPAL-DIV{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+    
+}
+#button1{
+    width: 400px;
+    height: 350px;
+}
+#button2{
+    width: 400px;
+    height: 350px;
+}
+#female-icon{
+    width: 5a0px;
+    height: 50px;
+}
+.titre{display: flex;
+justify-content: center;
+flex-direction: column;
+
+}
+.first-h1{margin-left: 550px;}
+.first-h3{
+    margin-left: 520px;
+}
+#profile-icon{
+    width: 50px;
+    height: 50px;
+}
+
